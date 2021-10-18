@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Denis Davidoglu 150200916
 
 ## 🤓 Course overview and learning outcomes 
 
